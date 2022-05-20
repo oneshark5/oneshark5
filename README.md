@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently I'm currently a student at NPU;
+- 🔭 I'm currently a student at NPU;
 - 🌱 I’m currently learning web...
 - 🤔 My interests are 🏀 📷 💪, etc..;
 - 📫 Please email via @ to reach me.
