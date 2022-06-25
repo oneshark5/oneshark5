@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 + **My CSDN Blog.[https://blog.csdn.net/etherealsymbol](https://blog.csdn.net/etherealsymbol/)**
 + **My CNBlogs Blog.[https://www.cnblogs.com/mysteryguest(https://www.cnblogs.com/mysteryguest/)**
 -->
-  ### 👋 Hi I'm one🦈 
-
   -   🏫 一名**在校学生**
   -   📚 喜欢**学习** 热爱**技术**
   -   🤔 喜欢 🏀 📸 💪 
