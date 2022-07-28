@@ -36,4 +36,4 @@ Here are some ideas to get you started:
   
   - 🐧QQ：455338206
   - ✉️邮箱：oneshark5@163.com
-  - 💻小站：www.oneshark.cn
+  - 💻小站：www
