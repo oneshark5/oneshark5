@@ -29,7 +29,7 @@ function App() {
   const [card4, setCard4] = useState(0)
   // const [card5, setCard5] = React.useState(0)
 
-  const [isMobo, setMobo] =  React.useState(()=>{
+  const [isMobo, setMobo] =  useState(()=>{
     return window.outerWidth<=650;
   })
 
@@ -40,16 +40,16 @@ function App() {
   document.body.dataset.page = "home"
 
   const handleOnClick = ()=>{
-    if(card1==2) setCard1(-1);
+    if(card1===2) setCard1(-1);
     else setCard1(card1+1);
 
-    if(card2==2) setCard2(-1);
+    if(card2===2) setCard2(-1);
     else setCard2(card2+1);
 
-    if(card3==2) setCard3(-1);
+    if(card3===2) setCard3(-1);
     else setCard3(card3+1);
 
-    if(card4==2) setCard4(-1);
+    if(card4===2) setCard4(-1);
     else setCard4(card4+1);
   }
 
