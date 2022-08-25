@@ -36,7 +36,7 @@ export default function Header() {
             <span>
               <a href="https://blog.oneshark.cn" target="_blank" rel="noreferrer">Blog</a>
             </span>
-            <span><a href="https://LowCode.oneshark.cn" target="_blank" rel="noreferrer">LowCode</a></span>
+            <span><a href="https://lowcode.fly.dev" target="_blank" rel="noreferrer">LowCode</a></span>
             <span>
               <a href="https://github.com/oneshark5" target="_blank" rel="noreferrer">Github</a>
             </span>
